@@ -1,7 +1,8 @@
-# jnaOSol
+# jnaOSearch
 
-Color theme for Sublime text. The base is originally from solarized: http://ethanschoonover.com/solarized
+Search color theme for Sublime text. The base is originally from solarized: http://ethanschoonover.com/solarized
 
+To use with BetterFindBuffer
 
 ## Installation
 
