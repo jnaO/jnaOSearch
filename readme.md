@@ -5,10 +5,21 @@ Find buffer color theme for Sublime text plugin [BetterFindBuffer](https://githu
 
 ## Installation
 
-* Go to sublime packages folder
+* Install [BetterFindBuffer](https://github.com/aziz/BetterFindBuffer)
+* Go to sublime packages folder (`~/Library/Application Support/Sublime Text 3/Packages`)
 * Clone this repo
-* In sublime text => preferences => Color Scheme => jnaOSol, select "jnaOSol"
+* In `~/Library/Application Support/Sublime Text 3/Packages/User`, add a file called `Find Results.sublime-settings` and paste the code below:
 
+``` json
+{
+  "color_scheme": "Path to your custom color scheme file. e.g. Packages/jnaOSearch/jnaOSearch.tmTheme",
+}
+```
+
+
+Other things of interest; if this is:
+* [jnaOSol](https://github.com/jnaO/jnaOSol)
+* [jnaOTheme](https://github.com/jnaO/jnaOTheme)
 
 Other things of interest; if this is:
 * [jnaOSol](https://github.com/jnaO/jnaOSol)
