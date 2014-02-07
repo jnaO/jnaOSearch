@@ -1,8 +1,7 @@
 # jnaOSearch
 
-Search color theme for Sublime text. The base is originally from solarized: http://ethanschoonover.com/solarized
+Find buffer color theme for Sublime text plugin [BetterFindBuffer](https://github.com/aziz/BetterFindBuffer). The base is originally from [solarized](http://ethanschoonover.com/solarized)
 
-To use with BetterFindBuffer
 
 ## Installation
 
@@ -11,9 +10,13 @@ To use with BetterFindBuffer
 * In sublime text => preferences => Color Scheme => jnaOSol, select "jnaOSol"
 
 
+Other things of interest; if this is:
+* [jnaOSol](https://github.com/jnaO/jnaOSol)
+* [jnaOTheme](https://github.com/jnaO/jnaOTheme)
+
 ## Preview
 
-Displayed below with my theme - [jnaOTheme](https://github.com/jnaO/jnaOTheme):
+Displayed below:
 
 ![jnaOTheme](screenshot.png)
 
