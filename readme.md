@@ -17,7 +17,7 @@ Find buffer color theme for Sublime text plugin [BetterFindBuffer](https://githu
 ```
 
 
-## Other things of interest...
+### Other things of interest...
 
 ...if this is:
 * [jnaOSol](https://github.com/jnaO/jnaOSol)
